@@ -3,10 +3,15 @@
 
 # Members
  Nixon Killen = Writer 
+ 
  Ripley Killen = Researcher
+ 
  Solomon Guilikey = Graphic Designer
+ 
  Gianna Sanone = Writer
+ 
  Grayson Carter = Coder
+ 
  Liam Gay = Project Manager/Coder
 # Class Diagram
 
