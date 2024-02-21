@@ -24,6 +24,8 @@
 
 ![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20Screen.png?raw=true)
 
+![Lose Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Lose%20Screen.png?raw=true)
+
 # Characters
 Player
 ![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Grayson.png.png?raw=true)
