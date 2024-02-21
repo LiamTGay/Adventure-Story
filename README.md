@@ -20,4 +20,4 @@
 # Characters
 ![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Grayson.png.png?raw=true)
 
-![Solomonder]()
+![Solomonder](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Solomonder.png?raw=true)
