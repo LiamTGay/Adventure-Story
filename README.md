@@ -17,6 +17,8 @@
 
 ![Forest Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Forest.png?raw=true)
 
+![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20Screen.png?raw=true)
+
 # Characters
 Player
 ![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Grayson.png.png?raw=true)
