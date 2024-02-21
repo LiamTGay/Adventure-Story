@@ -2,12 +2,12 @@
 ## This is an adventure game where the user is given many choices on thier journey to rescue their old friend Solomon. 
 
 # Members
-## Nixon Killen = Writer 
-## Ripley Killen = Researcher
-## Solomon Guilikey = Graphic Designer
-## Gianna Sanone = Writer
-## Grayson Carter = Coder
-## Liam Gay = Project Manager/Coder
+ Nixon Killen = Writer 
+ Ripley Killen = Researcher
+ Solomon Guilikey = Graphic Designer
+ Gianna Sanone = Writer
+ Grayson Carter = Coder
+ Liam Gay = Project Manager/Coder
 # Class Diagram
 
 ![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Final%20Diagram.jpg?raw=true)
