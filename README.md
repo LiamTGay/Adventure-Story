@@ -10,4 +10,4 @@
 ## Liam Gay = Coder
 # Class Diagram
 
-![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20Screen.png)
+![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Solomander%20Game.jpg?raw=true)
