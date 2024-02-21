@@ -14,3 +14,5 @@
 
 # Dewey Mock Up
 ![Start Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20Screen.png?raw=true)
+
+![Forest Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Forest.png?raw=true)
