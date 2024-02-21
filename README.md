@@ -21,3 +21,5 @@
 ![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Grayson.png.png?raw=true)
 
 ![Solomonder](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Solomonder.png?raw=true)
+
+![Elf](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Elf.png?raw=true)
