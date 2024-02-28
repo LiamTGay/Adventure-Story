@@ -35,3 +35,6 @@ Solomon
 
 Elf
 ![Elf](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Elf.png?raw=true)
+
+Stephen Hawking
+![Stephen Hawking]()
