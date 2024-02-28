@@ -40,4 +40,4 @@ Stephen Hawking
 ![Stephen Hawking](https://github.com/LiamTGay/Adventure-Story/blob/main/images/StephenHawkingWithWhellchair.png?raw=true)
 
 Stephen Hawking with Golden Wheelchair
-![Stephen Hawking with Golden Wheelchair]()
+![Stephen Hawking with Golden Wheelchair](https://github.com/LiamTGay/Adventure-Story/blob/main/images/GoldenWheelchairWithStephenHawking.png?raw=true)
