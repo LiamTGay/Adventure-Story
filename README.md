@@ -45,7 +45,7 @@ Stephen Hawking with Golden Wheelchair
 
 Pelican
 
-![Pelican]()
+![Pelican](https://github.com/LiamTGay/Adventure-Story/blob/main/images/pelicanGS.png?raw=true)
 
 # Settings
 Cave
