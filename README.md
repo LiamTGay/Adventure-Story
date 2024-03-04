@@ -20,7 +20,7 @@
 # Dewey Mock Up
 ![Start Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20ScreenSGNK.png?raw=true)
 
-![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20Screen.png?raw=true)
+![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20ScreenSGNK.png?raw=true)
 
 ![Lose Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Lose%20Screen.png?raw=true)
 
