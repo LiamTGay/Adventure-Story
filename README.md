@@ -55,5 +55,5 @@ Forest
 ![Forest Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/ForestSG.png?raw=true)
 
 Jungle 
-![Jungle Background]()
+![Jungle Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/JungleNK.png?raw=true)
 
