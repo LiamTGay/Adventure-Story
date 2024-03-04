@@ -27,7 +27,7 @@
 # Characters
 Player
 
-![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/New%20Piskel-1.png%20(1).png?raw=true)
+![Player](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Grayson2RK.png?raw=true)
 
 Solomon
 
