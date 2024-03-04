@@ -22,7 +22,7 @@
 
 ![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20ScreenSGNK.png?raw=true)
 
-![Lose Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Lose%20Screen.png?raw=true)
+![Lose Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Lose%20ScreenSGNK.png?raw=true)
 
 # Characters
 Player
