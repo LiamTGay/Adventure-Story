@@ -2,7 +2,7 @@
 ## This is an adventure game where the user is given many choices on thier journey to rescue their old friend Solomon. 
 
 # Members
- Nixon Killen = Writer 
+ Nixon Killen = Writer/ReadMe Manager
  
  Ripley Killen = Researcher
  
