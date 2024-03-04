@@ -20,8 +20,6 @@
 # Dewey Mock Up
 ![Start Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20Screen.png?raw=true)
 
-![Forest Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Forest.png?raw=true)
-
 ![Win Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Win%20Screen.png?raw=true)
 
 ![Lose Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Lose%20Screen.png?raw=true)
@@ -48,3 +46,6 @@ Stephen Hawking with Golden Wheelchair
 # Settings
 Cave
 ![Cave](https://github.com/LiamTGay/Adventure-Story/blob/main/images/CaveGSSG.png?raw=true)
+
+Forest 
+![Forest Background](https://github.com/LiamTGay/Adventure-Story/blob/main/images/ForestSG.png?raw=true)
