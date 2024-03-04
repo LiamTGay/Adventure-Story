@@ -43,6 +43,10 @@ Stephen Hawking
 Stephen Hawking with Golden Wheelchair
 ![Stephen Hawking with Golden Wheelchair](https://github.com/LiamTGay/Adventure-Story/blob/main/images/GoldenWheelchairWithStephenHawkingGS.png?raw=true)
 
+Pelican
+
+![Pelican]()
+
 # Settings
 Cave
 ![Cave](https://github.com/LiamTGay/Adventure-Story/blob/main/images/CaveGSSG.png?raw=true)
