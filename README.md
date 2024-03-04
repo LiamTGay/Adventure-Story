@@ -33,7 +33,7 @@ Player
 
 Solomon
 
-![Solomonder](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Real%20Solomonder.png?raw=true)
+![Solomonder](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Real%20SolomonderNK.png?raw=true)
 
 Elf
 
