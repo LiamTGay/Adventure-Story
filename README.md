@@ -37,7 +37,7 @@ Solomon
 
 Elf
 
-![Elf](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Elf.png?raw=true)
+![Elf](https://github.com/LiamTGay/Adventure-Story/blob/main/images/ElfNK.png?raw=true)
 
 Stephen Hawking 
 ![Stephen Hawking](https://github.com/LiamTGay/Adventure-Story/blob/main/images/StephenHawkingWithWhellchair.png?raw=true)
