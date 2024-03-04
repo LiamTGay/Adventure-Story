@@ -38,7 +38,7 @@ Elf
 ![Elf](https://github.com/LiamTGay/Adventure-Story/blob/main/images/ElfNK.png?raw=true)
 
 Stephen Hawking 
-![Stephen Hawking](https://github.com/LiamTGay/Adventure-Story/blob/main/images/StephenHawkingWithWhellchair.png?raw=true)
+![Stephen Hawking](https://github.com/LiamTGay/Adventure-Story/blob/main/images/StephenHawkingWithWheelchairGS.png?raw=true)
 
 Stephen Hawking with Golden Wheelchair
 ![Stephen Hawking with Golden Wheelchair](https://github.com/LiamTGay/Adventure-Story/blob/main/images/GoldenWheelchairWithStephenHawkingGS.png?raw=true)
