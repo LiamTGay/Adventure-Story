@@ -1,5 +1,5 @@
 # Solomonder Affair
-## This is an adventure game where the user is given many choices on thier journey to rescue their old friend Solomon. 
+## In this choose your own adventure game, you are going to an illusive island to rescue a friend who has gone missing. You will meet many strange characters and encounter new landscapes along the way to rescue your friend, Solomon.
 
 # Members
  Nixon Killen = Writer/ReadMe Manager
