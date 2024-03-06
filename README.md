@@ -15,7 +15,7 @@
  Liam Gay = Project Manager/Coder
 # Class Diagram
 
-![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Solomander%20Game%20DiagramRK.drawio.png?raw=true)
+![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/DiagramRKlast.png?raw=true)
 
 # Dewey Mock Up
 ![Start Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20ScreenSGNK.png?raw=true)
