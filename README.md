@@ -15,7 +15,8 @@
  Liam Gay = Project Manager/Coder
 # Class Diagram
 
-![Gameplay](https://github.com/LiamTGay/Adventure-Story/blob/main/images/ClassDiagramRK.drawio.png?raw=true)
+![Gameplay](![image](https://github.com/LiamTGay/Adventure-Story/assets/142618713/95c0670f-552c-4077-b520-430d84f831b3)
+)
 
 # Dewey Mock Up
 ![Start Screen](https://github.com/LiamTGay/Adventure-Story/blob/main/images/Start%20ScreenSGNK.png?raw=true)
